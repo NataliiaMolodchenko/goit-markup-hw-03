@@ -49,17 +49,14 @@ ul{
     display: flex;
     align-items: center;
     gap: 76px;
-}
-
-.main-nav ul{
-    display: flex;
-    gap: 40px;
+    
 }
 
 .header-navigation-menu{
     display: flex;
     gap: 40px;
     list-style: none;
+    padding: 24px 0;
 }
 
 .header-navigation-menu li{
@@ -89,6 +86,8 @@ ul{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
+    padding: 24px 0;
 }
 
 .navigation-logo-raleway {
@@ -108,7 +107,7 @@ ul{
 
 .header-navigation {
     display: flex;
-    
+    align-items: center;
 }
 
 .link {
