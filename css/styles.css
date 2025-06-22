@@ -59,13 +59,13 @@ ul{
 }
 
 .contacts-menu {
-    font-style: normal;
-    display: flex;
-    margin: 24px 0 24px 332px;
+    
 }
 
 .contacts-list{
+    font-style: normal;
     display: flex;
+    margin: 24px 0 24px 332px;
     gap: 40px;
 }
 
