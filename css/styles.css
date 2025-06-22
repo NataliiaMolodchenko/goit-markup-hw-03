@@ -45,12 +45,7 @@ ul{
     align-items: center; 
 }
 
-.main-nav{
-    display: flex;
-    align-items: center;
-    gap: 76px;
-    
-}
+
 
 .header-navigation-menu{
     display: flex;
