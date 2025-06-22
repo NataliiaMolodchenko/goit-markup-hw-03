@@ -45,8 +45,6 @@ ul{
     align-items: center; 
 }
 
-
-
 .header-navigation-menu{
     display: flex;
     gap: 40px;
@@ -54,13 +52,6 @@ ul{
     padding: 24px 0;
 }
 
-.header-navigation-menu li{
-    
-}
-
-.contacts-menu {
-    
-}
 
 .contacts-list{
     font-style: normal;
