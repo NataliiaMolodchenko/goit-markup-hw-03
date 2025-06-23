@@ -237,7 +237,6 @@ ul{
     display: flex;
     gap: 24px;
     border-radius: 0 0 4px 4px;
-    padding-bottom: 120px;
 }
 
 .team-list-item {
@@ -288,7 +287,6 @@ ul{
 .portfolio-list{
     display: flex;
     gap: 48px 24px;
-    padding-bottom: 113px;
     flex-wrap: wrap;
 }
 .portfolio-list-item {
